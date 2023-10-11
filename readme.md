@@ -1,4 +1,4 @@
-> ## View the entire tutorial on [GameDev Resources](https://gamedev-resources.com/how-to-select-multiple-objects-based-on-the-center-of-a-collider/).
+> View the entire tutorial on [What Up Games](https://www.whatupgames.com).
 
 # How to select multiple objects based on the center of a collider
 
